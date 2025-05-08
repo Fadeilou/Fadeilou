@@ -3,8 +3,8 @@
 <p align="left">
   <a href="mailto:afadeilou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <!-- Ajoutez ici un lien vers votre LinkedIn si vous en avez un, exemple : -->
-  <a href="https://www.linkedin.com/in/fadeilou-alassane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="alassanefadeilou.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/fadéilou-alassane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[alassanefadeilou.vercel.app](https://alassanefadeilou.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 Développeur Fullstack chevronné avec plus de 3 ans d'expérience dans la création d'applications web dynamiques et robustes. Je suis spécialisé dans l'écosystème **Angular**, **Laravel** et **Node.js**. Passionné par l'écriture de code propre, efficace et évolutif, je suis toujours à la recherche de nouveaux défis stimulants pour continuer à grandir et à innover.
