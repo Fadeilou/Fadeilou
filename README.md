@@ -1,20 +1,19 @@
-# 👋 Bonjour, je suis FADEILOU ALASSANE !
+# 👋 Hello, I'm FADEILOU ALASSANE!
 
 <p align="left">
   <a href="mailto:afadeilou@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <!-- Ajoutez ici un lien vers votre LinkedIn si vous en avez un, exemple : -->
   <a href="https://www.linkedin.com/in/fadéilou-alassane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="(https://alassanefadeilou.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://alassanefadeilou.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-Développeur Fullstack chevronné avec plus de 3 ans d'expérience dans la création d'applications web dynamiques et robustes. Je suis spécialisé dans l'écosystème **Angular**, **Laravel** et **Node.js**. Passionné par l'écriture de code propre, efficace et évolutif, je suis toujours à la recherche de nouveaux défis stimulants pour continuer à grandir et à innover.
+Seasoned Fullstack Developer with over 3 years of experience in building dynamic and robust web applications. I specialize in the **Angular**, **Laravel**, and **Node.js** ecosystems. Passionate about writing clean, efficient, and scalable code, I'm always looking for new challenging opportunities to keep growing and innovating.
 
 ---
 
-### 🚀 Mes Compétences Techniques
+### 🚀 My Technical Skills
 
 <p align="left">
-  <strong>Langages :</strong><br/>
+  <strong>Languages:</strong><br/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -22,7 +21,7 @@ Développeur Fullstack chevronné avec plus de 3 ans d'expérience dans la créa
 </p>
 
 <p align="left">
-  <strong>Frameworks & Librairies :</strong><br/>
+  <strong>Frameworks & Libraries:</strong><br/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -36,13 +35,13 @@ Développeur Fullstack chevronné avec plus de 3 ans d'expérience dans la créa
 </p>
 
 <p align="left">
-  <strong>Bases de Données :</strong><br/>
+  <strong>Databases:</strong><br/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 <p align="left">
-  <strong>Outils DevOps & Autres :</strong><br/>
+  <strong>DevOps & Other Tools:</strong><br/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -54,55 +53,55 @@ Développeur Fullstack chevronné avec plus de 3 ans d'expérience dans la créa
 
 ---
 
-### 🔭 Expériences Clés
+### 🔭 Key Experiences
 
 *   **Project Manager** | Vallis-Tech (Cotonou)
-    *   Supervision de projets technologiques, coordination d'équipe et gestion administrative.
-*   **Développeur Web** | Cave-Tech (Cotonou)
-    *   Développement d'applications web pour la microfinance (CICA-MICROFINANCE: `Laravel`, `Livewire`, `MySQL`), la gestion de chantiers BTP (CICA-BTP: `Express.js`, `Angular`, `MySQL`), et la gestion de patrimoines (CICA-GP: `Express.js`, `Angular`, `MySQL`).
-*   **Développeur Laravel** | Formatrust (Remote)
-    *   Développement d'une plateforme d'accompagnement à la formation supérieure avec `Laravel`, `Livewire`, `MySQL` et intégration de l'API `OpenAI`.
-*   **Développeur Web et Mobile** | Vallis-Tech (Cotonou)
-    *   Développement d'une application de gestion de données médicales (IRANTA: `Ionic Angular`, `Express.js`, `MongoDB`) et d'une plateforme de réservation d'appartements (Nanor: `Laravel`, `Livewire`, `MySQL`).
-*   **Stagiaire en Développement Web** | MIFY (Abomey-Calavi)
-    *   Développement de la page Activités pour SENIA 2022 (`Laravel`, `MySQL`) et création d'une plateforme de traitement d'images (EMOTIONS: `Python`, `TensorFlow`, `OpenCV`).
+    *   Supervision of technological projects, team coordination, and administrative management.
+*   **Web Developer** | Cave-Tech (Cotonou)
+    *   Development of web applications for microfinance (CICA-MICROFINANCE: `Laravel`, `Livewire`, `MySQL`), construction site management (CICA-BTP: `Express.js`, `Angular`, `MySQL`), and asset management (CICA-GP: `Express.js`, `Angular`, `MySQL`).
+*   **Laravel Developer** | Formatrust (Remote)
+    *   Development of a higher education support platform with `Laravel`, `Livewire`, `MySQL`, and `OpenAI` API integration.
+*   **Web and Mobile Developer** | Vallis-Tech (Cotonou)
+    *   Development of a medical data management application (IRANTA: `Ionic Angular`, `Express.js`, `MongoDB`) and an apartment reservation platform (Nanor: `Laravel`, `Livewire`, `MySQL`).
+*   **Web Development Intern** | MIFY (Abomey-Calavi)
+    *   Development of the Activities page for SENIA 2022 (`Laravel`, `MySQL`) and creation of an image processing platform (EMOTIONS: `Python`, `TensorFlow`, `OpenCV`).
 
 ---
 
-### 🎓 Formation
+### 🎓 Education
 
-*   **Licence Professionnelle en Génie Électrique et Informatique** (Spécialisation Informatique et Télécommunication)
-    *   Institut National Supérieur De Technologie Industrielle – LOKOSSA (BENIN)
-    *   Projet de fin d'études : Conception et réalisation d'une plateforme de traitement de photos et vidéos pour la reconnaissance d'émotions (`Python`, `Tensorflow`, `OpenCv`, `FastApi`, `Angular`).
-
----
-
-### 🌍 Langues
-
-*   🇫🇷 Français (Courant)
-*   🇬🇧 Anglais (Intermédiaire)
+*   **Professional Bachelor's Degree in Electrical and Computer Engineering** (Specialization in IT and Telecommunications)
+    *   National Higher Institute of Industrial Technology – LOKOSSA (BENIN)
+    *   Final year project: Design and implementation of a photo and video processing platform for emotion recognition (`Python`, `Tensorflow`, `OpenCv`, `FastApi`, `Angular`).
 
 ---
 
-### 🌱 Actuellement
+### 🌍 Languages
 
-*   Toujours à l'affût de nouvelles technologies et de projets innovants.
-*   Je cherche à approfondir mes connaissances en architecture logicielle et en pratiques DevOps.
-
----
-
-### 📫 Comment me contacter :
-
-*   **Email :** [afadeilou@gmail.com](mailto:afadeilou@gmail.com)
-*   **Portfolio :** [alassanefadeilou.vercel.app](alassanefadeilou.vercel.app)
-*   📍 Basé à Abomey-Calavi, Bénin
+*   🇫🇷 French (Fluent)
+*   🇬🇧 English (Intermediate)
 
 ---
 
-<!-- Optionnel: Ajoutez des stats GitHub si vous le souhaitez -->
+### 🌱 Currently
+
+*   Always on the lookout for new technologies and innovative projects.
+*   Looking to deepen my knowledge in software architecture and DevOps practices.
+
+---
+
+### 📫 How to reach me:
+
+*   **Email:** [afadeilou@gmail.com](mailto:afadeilou@gmail.com)
+*   **Portfolio:** [alassanefadeilou.vercel.app](https://alassanefadeilou.vercel.app/)
+*   📍 Based in Abomey-Calavi, Benin
+
+---
+
+<!-- Optional: Add GitHub stats if you wish -->
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR_GITHUB&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 -->
